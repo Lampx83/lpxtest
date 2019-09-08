@@ -1,38 +1,54 @@
-[
-  {
-    "id": "ad",
-    "phone_code": "00376",
-    "names": {
-      "en": "Andorra",
-      "vi": "Andorra",
-      "fr": "Andorre"
-    },
-    "synonyms": [
-      "thân vương quốc andorra"
-    ],
-    "capital": "Andorra la Vella",
-    "capital_latlon": {
-      "lat": 42.5,
-      "lon": 1.516667
-    },
-    "continent": "Europe"
+{
+  "time_ms": 19,
+  "total": {
+    "value": 10000,
+    "relation": "gte"
   },
-  {
-    "id": "ae",
-    "phone_code": "00971",
-    "names": {
-      "en": "United Arab Emirates",
-      "vi": "Các Tiểu Vương Quốc Ả Rập Thống Nhất",
-      "fr": "Emirats Arabes Unis"
-    },
-    "synonyms": [
-      "uae"
-    ],
-    "capital": "Abu Dhabi",
-    "capital_latlon": {
-      "lat": 24.466666666666665,
-      "lon": 54.366667
-    },
-    "continent": "Asia"
+  "entries": [
+    
+  ],
+  "facets": {
+    "country": [
+      {
+        "key": "United States",
+        "doc_count": 365273
+      },
+      {
+        "key": "Australia",
+        "doc_count": 56961
+      },
+      {
+        "key": "France",
+        "doc_count": 49302
+      },
+      {
+        "key": "Canada",
+        "doc_count": 37407
+      },
+      {
+        "key": "Vietnam",
+        "doc_count": 28661
+      },
+      {
+        "key": "Germany",
+        "doc_count": 19060
+      },
+      {
+        "key": "United Kingdom",
+        "doc_count": 6233
+      },
+      {
+        "key": "Switzerland",
+        "doc_count": 5510
+      },
+      {
+        "key": "Singapore",
+        "doc_count": 4416
+      },
+      {
+        "key": "Netherlands",
+        "doc_count": 2841
+      }
+    ]
   }
-  ]
+}
